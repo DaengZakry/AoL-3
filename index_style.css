@@ -1,0 +1,72 @@
+html{
+    height: 100%;
+}
+body{
+    background-color: #2F3035;
+    background-image: url(img/cafe.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+header{
+    height: 118px;
+    text-align: center;
+}
+nav{
+    background-color: rgba(0,0,0,0.338);
+    text-align: center; 
+    margin-top: 30px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+main{
+    height: 400px;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 240px;
+    padding-right: 240px;
+    margin-bottom: 50px;
+
+}
+section{z'moljmo kjnjmoiukn`1/
+  margin-top: 90px;  
+} 
+footer{
+    background-color: rgba(0,0,0,0.79);
+    text-align: center;
+    margin-top: 95px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+}
+h1{
+    font-size:84px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-size:18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav a{
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+footer p {
+    font-size: 13px;
+    color: rgb(216, 216, 216);
+}
+section iframe{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
